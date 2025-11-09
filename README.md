@@ -9,7 +9,7 @@ This project includes an “About Me” page and a “Contact Us” form page �
 
 ### 🧠 About Me Page
 - Reflective content about personal growth and goals  
-- Structured with semantic HTML (<main>, <section>, <h2>)  
+- Structured with semantic HTML    <main>, <section>, <h2>  
 - Fully responsive layout  
 - Easy navigation to Contact page  
 

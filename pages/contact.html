@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="../style/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class="nav-links">
+                <li><a href="contact.html" class="active">Contact Us</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+   </header>
+    <main>
+        <h1>Contact Us</h1>
+        <form id="contactForm" novalidate>
+        <div>
+            <label for="name">Full Name</label>
+            <input id="name" name="name" type="text" aria-describedby="nameError" required />
+            <p id="nameError" class="error" aria-live="polite"></p>
+        </div>
+
+        <div>
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" aria-describedby="emailError" required />
+            <p id="emailError" class="error" aria-live="polite"></p>
+        </div>
+
+        <div>
+            <label for="subject">Subject</label>
+            <input id="subject" name="subject" type="text" aria-describedby="subjectError" required />
+            <p id="subjectError" class="error" aria-live="polite"></p>
+        </div>
+
+        <div>
+            <label for="message">Message</label>
+            <textarea id="message" name="message" aria-describedby="messageError" required></textarea>
+            <p id="messageError" class="error" aria-live="polite"></p>
+        </div>
+
+        <button type="submit">Submit</button>
+        </form>
+
+        <div id="successMessage" class="success" role="status">
+        Your message has been successfully sent. Thank you!
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 My Portfolio</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
