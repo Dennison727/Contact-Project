@@ -25,8 +25,12 @@ This project includes an “About Me” page and a “Contact Us” form page �
 ## 💻 Technologies Used
 - *HTML5* – for semantic structure  
 - *CSS3* – for styling and layout  
-- *JavaScript (ES6)* – for form validation and interactivity  
+- *JavaScript* - for form validation and interactivity  
 
 ---
 
-## 📁 Folder Structure
+🌐 Live Demo
+
+🎯 Check it out live here: 👉 https://dennison727.github.io/Contact-Project/
+
+💻 GitHub Repository: 👉https://github.com/Dennison727/Contact-Project
