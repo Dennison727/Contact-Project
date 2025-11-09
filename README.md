@@ -31,8 +31,6 @@ This project includes an “About Me” page and a “Contact Us” form page �
 
 🌐 Live Demo
 
-🎯 Check it out live here: 👉 https://dennison727.github.io/Contact-Project/
+🎯 Check it out live here: 👉 
 
 💻 GitHub Repository: 👉https://github.com/Dennison727/Contact-Project
-
-man kind 
